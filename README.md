@@ -4,10 +4,8 @@
 <h1 align="center">Hi 👋, I'm Yassine Bouhramache</h1>
 <h3 align="center">A passionate Data science student from Morocco</h3>
 <p align="center">
-<p align="center"> 
 I am deeply intrigued by the power of data to uncover hidden patterns, make predictions, and drive informed decision-making. The ever-evolving landscape of data science excites me, and I am eager to explore the latest tools and techniques in the field. My love for exploring new tech stacks 💻 and leveraging them to build innovative solutions continues to motivate me.
-
-As a data science student, I am committed to mastering the diverse set of skills required, from statistical analysis and machine learning to data visualization and big data technologies. I am enthusiastic about the opportunity to solve complex problems, contribute to meaningful projects, and push the boundaries of what data can achieve. 🛠️</p>
+</p>
 <p align="center"> 
 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | C++ | C -green.svg" alt="Yassine bouhramache languages" /> -->
@@ -18,10 +16,9 @@ As a data science student, I am committed to mastering the diverse set of skills
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
-
-   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
@@ -33,7 +30,7 @@ As a data science student, I am committed to mastering the diverse set of skills
 
 - 👨‍💻 All of my projects are available in **github**
 
-- 💬 Ask me about **C, C++, Java, Python, PHP, JS**
+- 💬 Ask me about ** Python, PHP, C++, C, Java, JS**
 
 
 <br>
@@ -41,7 +38,7 @@ As a data science student, I am committed to mastering the diverse set of skills
 <p align="left">
 <a href="https://www.linkedin.com/in/yassine-bouhramache/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yassine" height="30" width="40" /></a>
     <a href="mailto:yassine.boche@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail-alt.svg" alt="Gmail Badge"/>
   </a>
 </p>
 <br>
