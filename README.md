@@ -35,13 +35,11 @@ I am deeply intrigued by the power of data to uncover hidden patterns, make pred
 
 <br>
 <h3 align="left">📫 How to reach me :</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/yassine-bouhramache/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yassine" height="30" width="40" />
+<p align="left">
+<a href="https://www.linkedin.com/in/yassine-bouhramache/" target="blank">  <img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yassine" height="30" width="40" />
 </a>
-  
 <a href="mailto:yassine.boche@gmail.com" target="blank">
-  <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Yassine's mail " height="30" width="40"/>
+  <img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Yassine's mail " height="30" width="40"/>
 </a>
 </p>
 <br>
