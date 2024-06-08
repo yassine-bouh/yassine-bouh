@@ -18,7 +18,7 @@ As a data science student, I am committed to mastering the diverse set of skills
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/c.svg" alt="icon" width="50" height="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
