@@ -18,7 +18,7 @@ As a data science student, I am committed to mastering the diverse set of skills
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/c.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
@@ -26,11 +26,11 @@ As a data science student, I am committed to mastering the diverse set of skills
 
 <div align="center">
    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="icon" width="50" height="50" />
-     <img src="https://techstack-generator.vercel.app/anaconda-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/firebase.svg" alt="icon" width="50" height="50" />
+     <img src="https://techstack-generator.vercel.app/anaconda.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="icon" width="50" height="50" />
-   <img src="https://techstack-generator.vercel.app/laravel-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/angular.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/laravel.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
