@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Yassine Bouhramache</h1>
 <h3 align="center">A passionate Data science student from Morocco</h3>
 <p align="center">
-
+<p align="center"> 
 I am deeply intrigued by the power of data to uncover hidden patterns, make predictions, and drive informed decision-making. The ever-evolving landscape of data science excites me, and I am eager to explore the latest tools and techniques in the field. My love for exploring new tech stacks 💻 and leveraging them to build innovative solutions continues to motivate me.
 
 As a data science student, I am committed to mastering the diverse set of skills required, from statistical analysis and machine learning to data visualization and big data technologies. I am enthusiastic about the opportunity to solve complex problems, contribute to meaningful projects, and push the boundaries of what data can achieve. 🛠️</p>
