@@ -35,12 +35,14 @@ As a data science student, I am committed to mastering the diverse set of skills
 
 - 💬 Ask me about **C, C++, Java, Python, PHP, JS**
 
-- 📫 How to reach me **yassine.boche@gmail.com**
 
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 How to reach me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yassine-bouhramache/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yassine" height="30" width="40" /></a>
+    <a href="mailto:yassine.boche@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </p>
 <br>
 
@@ -100,10 +102,11 @@ As a data science student, I am committed to mastering the diverse set of skills
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Activity:</h3>
-
-![yassine-bouh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=yassine-bouh&custom_title=Yassine's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
+<h2 align="left">Stats:</h2>
+<div align="center">
+    <img width="30%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassine-bouh&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="yassine bouhramache" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=yassine-bouh&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="yassine bouhramache" />
+</div>
 <br><br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
