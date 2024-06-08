@@ -35,14 +35,14 @@ I am deeply intrigued by the power of data to uncover hidden patterns, make pred
 
 <br>
 <h3 align="left">📫 How to reach me :</h3>
-<p align="left">
 <a href="https://www.linkedin.com/in/yassine-bouhramache/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yassine" height="30" width="40" />
 </a>
+  
 <a href="mailto:yassine.boche@gmail.com" target="blank">
   <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Yassine's mail " height="30" width="40"/>
 </a>
-</p>
+
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -86,16 +86,6 @@ I am deeply intrigued by the power of data to uncover hidden patterns, make pred
 
 <br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassine-bou\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
-
-</div>
 
 <br><br>
 
@@ -113,7 +103,6 @@ I am deeply intrigued by the power of data to uncover hidden patterns, make pred
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
 
 
 <!--
