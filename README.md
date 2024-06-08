@@ -36,10 +36,12 @@ I am deeply intrigued by the power of data to uncover hidden patterns, make pred
 <br>
 <h3 align="left">📫 How to reach me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yassine-bouhramache/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yassine" height="30" width="40" /></a>
-    <a href="mailto:yassine.boche@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail Badge"/>
-  </a>
+<a href="https://www.linkedin.com/in/yassine-bouhramache/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yassine" height="30" width="40" />
+</a>
+<a href="mailto:yassine.boche@gmail.com">
+  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Yassine's mail " alt="Yassine" height="30" width="40"/>
+</a>
 </p>
 <br>
 
