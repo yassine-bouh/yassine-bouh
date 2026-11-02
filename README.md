@@ -15,6 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=yassine-bouh&style=for-the-badge&color=0e75b6&label=Profile+views" />
 </p>
 
+<p align="center">
+  <img src="./terminal.svg" alt="Yassine Bouhramache — terminal card" width="100%" />
+</p>
+
 ---
 
 ## 🧠 About me
